@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agent Evals",
+  "repo": "ianwieds/awesome-agent-evals",
+  "tagline": "Evaluation, tracing and observability for AI agents: benchmarks, eval frameworks, tracing SDKs and monitoring platforms.",
+  "scope": "It is about measuring or observing AI agent behavior, not a general logging or testing product.",
+  "accent": "14B8A6",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: four agent cubes run parallel test lanes at different speeds, timing gates lighting as each passes and one gate turning red when an agent stalls, while bars on an upright scoreboard rise to each score and a gauge needle swings."
 }
