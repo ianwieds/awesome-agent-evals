@@ -208,6 +208,7 @@ An agent takes many steps, calls tools and keeps state, so knowing whether it wo
 - [agenttrail](https://github.com/sodiumsun/agenttrail) - Local live view of what coding agents are changing in a project.
 - [Claude Code Agent Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - Real-time dashboard of Claude Code and Codex sessions and tool use.
 - [Claude Code Hooks Multi-Agent Observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Streams Claude Code hook events from many agents to a live dashboard.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Local dashboard for OpenClaw AI agents showing token usage, sessions and weekly trends.
 
 ## Guides
 
