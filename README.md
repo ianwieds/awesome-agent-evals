@@ -229,10 +229,10 @@ An agent takes many steps, calls tools and keeps state, so knowing whether it wo
 - [Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) - Tools, benchmarks, leaderboards and papers on LLM evaluation.
 - [LLM Agent Benchmark List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - Benchmarks for evaluating LLM agents and the models behind them.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
